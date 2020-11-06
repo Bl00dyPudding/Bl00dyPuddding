@@ -1,2 +1,1 @@
-# Bl00dyPudding
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=bl00dypudding)]
+![My github stats](https://github-readme-stats.vercel.app/api?username=bl00dypudding&show_icons=true)
